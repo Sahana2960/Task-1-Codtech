@@ -1,0 +1,12 @@
+ChatConnect is a modern, real-time messaging app designed for seamless text, voice, and video communication. Built with scalability and privacy in mind, it supports direct messaging, group chats, media sharing, and more.
+
+# Features:
+- Text, voice chat
+- End-to-end encryption for secure communication
+- Cross-platform support (Android, iOS, Web)
+- Real-time notifications and updates
+
+# Technologies Used:
+- Frontend: React Native, WebSocket
+- Backend: Node.js, Express.js
+- Database: MongoDB
