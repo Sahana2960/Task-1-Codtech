@@ -1,8 +1,8 @@
-NAME: SAHANA A M
-COMPANY:CODTECH IT SOLUTIONS
-ID:CT6WDS2261
-DOMAIN: FULL STACK WEB DEVELOPMENT
-DURATION: NOV-1 2024 to DEC-15 2024
+NAME: SAHANA A M,
+COMPANY:CODTECH IT SOLUTIONS,
+ID:CT6WDS2261,
+DOMAIN: FULL STACK WEB DEVELOPMENT,
+DURATION: NOV-1 2024 to DEC-15 2024,
 
 OVERVIEW OF THE PROJECT: REAL-TIME CHAT-APP
 ChatConnect is a modern, real-time messaging app designed for seamless text, voice, and video communication. Built with scalability and privacy in mind, it supports direct messaging, group chats, media sharing, and more.
