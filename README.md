@@ -1,3 +1,23 @@
+NAME: SAHANA A M
+COMPANY:CODTECH IT SOLUTIONS
+ID:CT6WDS2261
+DOMAIN: FULL STACK WEB DEVELOPMENT
+DURATION: NOV-1 2024 to DEC-15 2024
+
+OVERVIEW OF THE PROJECT: REAL-TIME CHAT-APP
+ChatConnect is a modern, real-time messaging app designed for seamless text, voice, and video communication. Built with scalability and privacy in mind, it supports direct messaging, group chats, media sharing, and more.
+
+## Features:
+- Text, voice chat
+- End-to-end encryption for secure communication
+- Cross-platform support (Android, iOS, Web)
+- Real-time notifications and updates
+
+## Technologies Used:
+- Frontend: React Native, WebSocket
+- Backend: Node.js, Express.js
+- Database: MongoDB
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +88,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
